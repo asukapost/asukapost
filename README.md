@@ -44,6 +44,7 @@
 
 <p align="center">
 <a href="https://www.asuka-zeirishi.com//"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asukapost)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ⭐️ From [AsukaPost](https://github.com/asukapost)
