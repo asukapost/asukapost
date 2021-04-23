@@ -36,6 +36,7 @@
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asukapost&theme=cobalt&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -44,7 +45,6 @@
 
 <p align="center">
 <a href="https://www.asuka-zeirishi.com//"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asukapost&theme=buefy&layout=compact" />
 </p>
 
 ⭐️ From [AsukaPost](https://github.com/asukapost)
